@@ -7,7 +7,7 @@ os.system("clear")
 webbrowser.open("https://twitter.com/PaawaaaKawa")
 print("""\033[93m  
     _    ____  _____ 
-   / \  |  _ \|  ___|
+   / \  |  _ \|  ___| Kurd-H.OrG Formus And 1337 Erbil Team
   / _ \ | |_) | |_   
  / ___ \|  __/|  _| Developed By Zecroma 
 /_/   \_\_|   |_|  Twitter:@PaawaaaKawa
